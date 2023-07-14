@@ -12,3 +12,6 @@ into the effectiveness of the Supertrend indicator across different time frames.
 However, it is important to acknowledge that past performance does not guarantee future results, and the success of a trading strategy 
 can be influenced by market conditions and other factors. Consequently, thorough research and analysis will continue to be conducted before 
 making any investment decisions
+#![](image/Screenshot 2023-07-14 212522.jpg)
+#![](image/2.jpg)
+#![](image/3.jpg)
