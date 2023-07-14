@@ -14,6 +14,5 @@ can be influenced by market conditions and other factors. Consequently, thorough
 making any investment decisions
 
 Trading View
-#![](image/Screenshot2023-07-14212522.jpg)
 #![](image/2.jpg)
 #![](image/3.jpg)
